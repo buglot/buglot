@@ -1,11 +1,11 @@
-# สวัสดีผมบักลอด
-## HI i'm buglot
-### i interest in computer. 
-### Now im learning Computer Engineering in thailand
-### Computer language project on github 
- - python
- - c
- - java
+### สวัสดีผมบักลอด
+### HI i'm buglot
+##### i interest in computer. 
+##### Now im learning Computer Engineering in thailand
+##### Computer language project on github 
+ > - [x] python
+ > - [x] c
+ > - [x] java
 
 <!---
 buglot/buglot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
