@@ -3,9 +3,9 @@
 ##### i interest in computer. 
 ##### Now im learning Computer Engineering in thailand
 ##### Computer language project on github 
- > - [x] python
- > - [x] c
- > - [x] java
+ > - [*] python
+ > - [*] c
+ > - [*] java
 
 <!---
 buglot/buglot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
