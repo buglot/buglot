@@ -1,8 +1,8 @@
-### สวัสดีผมบักลอด
-### HI i'm buglot
-##### i interest in computer. 
-##### Now im learning Computer Engineering in thailand
-##### Computer language project on github 
+## สวัสดีผมบักลอด
+## HI i'm buglot
+#### i interest in computer. 
+#### Now im learning Computer Engineering in thailand
+#### Computer language project on github 
  > -  [python](https://github.com/buglot/buglot/blob/main/pthon.md)
  > -  [c](https://github.com/buglot/buglot/blob/main/c_cpp.md)
  > -  [java](https://github.com/buglot/buglot/blob/main/java.md)
