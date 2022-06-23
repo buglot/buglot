@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @buglot
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# สวัสดีผมบักลอด
+## HI i'm buglot
+### i interest in computer. 
+### Now im learning Computer Engineering in thailand
+### Computer language project on github 
+ - python
+ - c
+ - java
 
 <!---
 buglot/buglot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
