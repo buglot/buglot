@@ -1,6 +1,6 @@
-## สวัสดีผมบักลอด
-## HI i'm buglot
-#### i interest in computer. 
+## สวัสดีผมปีเตอร์ 👩🏿‍💻👩🏿‍💻
+## HI i'm Peter 👩🏿‍💻👩🏿‍💻
+#### i interest in computer. 👓🧜‍♂️
 #### Now im learning Computer Engineering in thailand
 #### Computer language project on github 
 - python
